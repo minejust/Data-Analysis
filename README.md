@@ -1,2 +1,7 @@
 # Data-Analysis
-Building my Data Analysis Portfolio
+# Beginning a project on data analysis
+
+# Building my Data Analysis Portfolio
+# @emmasoft
+# reviewing steps 
+* @emmasoft
